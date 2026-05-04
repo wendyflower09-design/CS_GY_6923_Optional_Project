@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+
+# Data
+processed_svg_data/
+raw_svg_data/
+*.bin
+*.pkl
+
+# Outputs
+part1_outputs/
+part2_outputs/
+part3_uP_outputs/
+part4_outputs/
+tokenization_testing_output/
+debug_generation_sweep_outputs/
+debug_tiny_outputs/
+debug_tokenizer_roundtrip_outputs/
+
+# Checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+*.log
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

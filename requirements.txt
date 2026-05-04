@@ -1,0 +1,8 @@
+datasets
+tokenizers
+lxml
+matplotlib
+numpy
+tqdm
+mup
+Pillow
